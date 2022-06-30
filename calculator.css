@@ -1,0 +1,45 @@
+body {
+    margin-top: 150px;
+    text-align: center;
+    background-color: black;
+}
+
+.cal {
+    border: 2px white solid;
+    display: inline-block;
+    border-radius: 14px;
+}
+
+#calc {
+    border: 2px solid white;
+    display: inline-block;
+    width: 500px;
+    height: 300px;
+    border-radius: 14px;
+}
+
+#text {
+    text-align: right;
+    width: 470px;
+    /* margin-top: 5px; */
+    border-radius: 14px;
+    height: 25px;
+    font-size: 25px;
+}
+
+.btn {
+    margin: 10px;
+    width: 100px;
+    cursor: pointer;
+    height: 30px;
+    font-size: 25px;
+    border-radius: 20px;
+}
+
+.btn:hover {
+    background-color: rgb(148, 145, 141);
+}
+
+h1 {
+    color: white;
+}
